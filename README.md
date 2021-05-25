@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate with someone who has experience with web scrapping and building web apps.
 - 📫 You can always send me an email on masterdeven@gmail.com
 
+[![Deven's GitHub stats](https://github-readme-stats.vercel.app/api?username=deven367)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---
 deven367/deven367 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
