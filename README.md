@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deven367
 - 👀 I’m a person with varied interests, ranging from philosophy, psychology, physics, reading, cooking and much more.
-- 👀 I'm looking to enroll in a PhD program starting Fall 22
+- 👀 I'm looking to enroll in a PhD program starting Fall 23
 - 🌱 I’m recently finished my thesis in NLP
 - 💞️ I’m looking to collaborate with someone who has experience with web scrapping and building web apps.
 - 📫 You can always send me an email on masterdeven@gmail.com
