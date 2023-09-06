@@ -1,6 +1,6 @@
-👋 Hi, I’m @deven367
+👋 Hi, I’m Deven
 - 👀 I’m a person with varied interests, ranging from philosophy, psychology, physics, reading, cooking and much more.
-- 👀 I'm looking to enroll in a PhD program starting Fall 23
+- 👀 I have started my PhD this Fall at Indiana University.
 - 🌱 I’m finished my thesis in NLP in 2021. My thesis can be found [here](https://etd.ohiolink.edu/apexprod/rws_olink/r/1501/10?clear=10&p10_accession_num=ucin1637311155942699).
 - 💞️ I’m looking to collaborate with someone who has experience with web scrapping and building web apps.
 - 📫 You can always send me an email on masterdeven@gmail.com
