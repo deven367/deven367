@@ -7,6 +7,7 @@
 
 [![Deven's GitHub stats](https://github-readme-stats-deven367.vercel.app/api?username=deven367&layout=compact&include_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-deven367.vercel.app/api/top-langs/?username=deven367&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=deven367)
 
 <!---
 deven367/deven367 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
