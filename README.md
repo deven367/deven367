@@ -3,7 +3,7 @@
 - 👀 My interests span a wide range, including philosophy, psychology, physics, reading, and cooking, among many others.
 - 👀 I began my PhD journey in Fall 2023 at Indiana University Bloomington.
 - 🌱 Before starting my PhD, I completed my Master's at the University of Cincinnati, researching semantic dynamics and how sentence encoders capture meaning from text. My thesis on this topic is available [here](https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=ucin1637311155942699).
-- Following my Master’s, I worked as a Full Stack Machine Learning Engineer at @gqc.
+- Following my Master’s, I worked as a Full Stack Machine Learning Engineer at [GQC](https://gqc.com/).
 
 [![Deven's GitHub stats](https://github-readme-stats-deven367.vercel.app/api?username=deven367&layout=compact&include_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-deven367.vercel.app/api/top-langs/?username=deven367&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
