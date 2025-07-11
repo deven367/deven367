@@ -7,7 +7,7 @@
 
 [![Deven's GitHub stats](https://github-readme-stats-deven367.vercel.app/api?username=deven367&layout=compact&include_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-deven367.vercel.app/api/top-langs/?username=deven367&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-[![Deven Mistry profile views](https://u8views.com/api/v1/github/profiles/31466137/views/day-week-month-total-count.svg)](https://u8views.com/github/deven367)
+
 
 <!---
 deven367/deven367 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
